@@ -14,3 +14,8 @@ The cuboid region is evenly divided into a specified number of cuboid subareas.
 ```python
 python main.py
 ```
+
+## Result
+
+![Alt text](result/2d.png)
+![Alt text](result/3d.png)

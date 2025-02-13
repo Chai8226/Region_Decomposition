@@ -246,7 +246,7 @@ def divide_cuboid_3D(xl, yl, zl, xr, yr, zr, n, agent_positions):
     return subregions, assignments
 
 
-# ---------------------------------- main 
+# ---------------------------------- main
 # parameters
 cuboid_ll = [0, 0, 0]
 cuboid_tr = [10, 20, 30]
