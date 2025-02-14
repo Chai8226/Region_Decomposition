@@ -17,5 +17,10 @@ python main.py
 
 ## Result
 
-![Alt text](result/2d.png)
-![Alt text](result/3d.png)
+![Alt text](result/2d_1.png)
+![Alt text](result/2d_2.png)
+![Alt text](result/2d_3.png)
+---
+![Alt text](result/3d_1.png)
+![Alt text](result/3d_2.png)
+![Alt text](result/3d_3.png)
